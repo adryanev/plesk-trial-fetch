@@ -1,4 +1,3 @@
-const axios = require("axios");
 const $ = require("cheerio");
 const puppeteer = require("puppeteer");
 require("dotenv").config();
