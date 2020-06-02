@@ -53,6 +53,7 @@ const editGist = async (license) => {
     const license = await readImage();
     console.log(license);
     await editGist(license);
+    console.log("DONE");
   } catch (ex) {
     console.log(ex);
   }
