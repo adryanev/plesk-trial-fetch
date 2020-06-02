@@ -1,2 +1,7 @@
-.env
-node_modules/
+*
+!index.js
+!package.json
+!.env.example
+!.gitignore
+!update-license.sh
+!README.md

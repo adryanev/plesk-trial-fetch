@@ -11,7 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
     "gists": "^2.0.0",
-    "puppeteer": "^3.2.0"
+    "puppeteer": "^3.2.0",
+    "tesseract.js": "^2.1.1"
   }
 }
